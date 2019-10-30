@@ -2,83 +2,38 @@
   "courses": [
     {
       "id": 0,
-      "title": "nostrud nostrud esse",
-      "updatedAt": "2019-08-06T07:20:19+06:00"
+      "title": "labore cupidatat eu",
+      "updatedAt": "2019-10-03T05:01:49+06:00"
     },
     {
       "id": 1,
-      "title": "occaecat cupidatat commodo",
-      "updatedAt": "2019-02-28T04:39:23+06:00"
+      "title": "ullamco culpa velit",
+      "updatedAt": "2019-03-23T10:19:26+06:00"
     },
     {
       "id": 2,
-      "title": "do et officia",
-      "updatedAt": "2019-03-06T08:15:32+06:00"
+      "title": "consequat ut sint",
+      "updatedAt": "2019-05-30T09:57:23+06:00"
     },
     {
       "id": 3,
-      "title": "deserunt ex esse",
-      "updatedAt": "2019-03-20T05:24:01+06:00"
+      "title": "nostrud cillum occaecat",
+      "updatedAt": "2019-01-31T07:37:11+06:00"
     },
     {
       "id": 4,
-      "title": "ut Lorem mollit",
-      "updatedAt": "2019-07-17T07:46:57+06:00"
+      "title": "aliquip ea excepteur",
+      "updatedAt": "2019-09-16T04:59:17+06:00"
     },
     {
       "id": 5,
-      "title": "amet aliqua Lorem",
-      "updatedAt": "2019-04-04T04:36:18+06:00"
+      "title": "qui elit excepteur",
+      "updatedAt": "2019-03-16T06:34:13+06:00"
     },
     {
       "id": 6,
-      "title": "pariatur dolore labore",
-      "updatedAt": "2019-05-13T04:38:11+06:00"
-    },
-    {
-      "id": 7,
-      "title": "ullamco aliqua culpa",
-      "updatedAt": "2019-06-15T11:54:04+06:00"
-    },
-    {
-      "id": 8,
-      "title": "est ullamco commodo",
-      "updatedAt": "2019-07-27T04:00:18+06:00"
-    },
-    {
-      "id": 9,
-      "title": "quis veniam labore",
-      "updatedAt": "2019-08-07T05:37:32+06:00"
-    },
-    {
-      "id": 10,
-      "title": "in adipisicing ut",
-      "updatedAt": "2019-04-16T04:34:17+06:00"
-    },
-    {
-      "id": 11,
-      "title": "dolor aliquip tempor",
-      "updatedAt": "2019-10-05T01:34:55+06:00"
-    },
-    {
-      "id": 12,
-      "title": "irure quis sint",
-      "updatedAt": "2019-09-16T12:53:49+06:00"
-    },
-    {
-      "id": 13,
-      "title": "esse ea ex",
-      "updatedAt": "2019-01-28T08:59:13+06:00"
-    },
-    {
-      "id": 14,
-      "title": "nostrud duis tempor",
-      "updatedAt": "2019-01-21T08:09:40+06:00"
-    },
-    {
-      "id": 15,
-      "title": "aliquip id ad",
-      "updatedAt": "2019-07-24T02:11:13+06:00"
+      "title": "exercitation sit nostrud",
+      "updatedAt": "2019-09-20T04:57:45+06:00"
     }
   ]
 }
